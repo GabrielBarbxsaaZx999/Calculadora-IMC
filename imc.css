@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.medida{
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+.borda{
+    border: 2px solid rgb(255, 0, 0);
+    margin: 25px;
+
+
+}
+
+.titulo {  
+    background: rgb(255, 51, 0);
+    font-size: 25px;
+    color: #fff;
+    text-align: center ;
+    height: 100px;
+    font-family: sans-serif
+}
+
+label{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifS;
+    padding:25px;
+    font-size: 25px;
+}
+
+input {
+    margin: 50px;
+    padding:15px;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+float: center;
+
+
+}
+
+.rodape{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    padding: 50px;
+    background-color: #ff0000;
+    margin-top: 24px;
+    color: #fff;
+}
+
+.botao{ 
+
+    font-size: 20px;
+    color: #000000;
+    background-color: #ff0000;
+    border: #000000;
+    width: 250px;
+    
+    
+
+}
+
